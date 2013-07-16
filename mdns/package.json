@@ -1,0 +1,12 @@
+{
+  "name": "mdns-ex",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "",
+  "author": "",
+  "license": "MIT/X",
+  "dependencies": {
+    "mdns": "~1.1.0"
+  }
+}
